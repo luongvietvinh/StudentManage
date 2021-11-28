@@ -1,0 +1,6 @@
+1 , vịnhav , 30 , nam , 23.0 
+2 , lan , 31 , nu , 23.0 
+3 , dip , 29 , nam , 43.0 
+4 , sakura , 25 , lu , 21.0 
+5 , phúc , 30 , nam , 34.0 
+6 , lan anh , 25 , nữ , 30.0 
